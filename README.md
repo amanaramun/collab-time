@@ -34,10 +34,9 @@ to bring up the terminal</li>
 <li> type in 
 
                 ```bash
-
                 git config --user.name "your name"
                 git config --user.email "your email"
-                
+
                 ```
 
 </li>
