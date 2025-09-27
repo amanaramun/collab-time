@@ -32,7 +32,9 @@ to bring up the terminal</li>
 <li> set up user name and email </li>
 <ol>
 <li> type in 
+                ```bash
                 git config --user.name "your name"
+                ```
 </li>
 <li> type in 
                 git config --user.email "your email"
